@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlCwLvCSd68?si=851i1kJyY0Wq4nlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJJDqsW_kac?si=lnbI2ht5wqZ-Pwcy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymp7dIUvpiI?si=2uTUay-yAFdIMC_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymp7dIUvpiI?si=2uTUay-yAFdIMC_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fu-t3Om6DIA?si=15QlnrztzaSCvLJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fu-t3Om6DIA?si=15QlnrztzaSCvLJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@whitehouse @fbicyber @howard-university-web-services @nasa-pds @nasa-jpl this is a demo for Ms Fitzpatrick, its the template i built my workblog from [[1](https://thakarashard.github.io/)] / [[2](https://ra5hard.github.io/)] @dhs-gov its great presentation software for people who like outlines @nasa @la-county-isd @Stateofcalifornia @cityoflosangeles
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
