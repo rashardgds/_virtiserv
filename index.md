@@ -7,7 +7,13 @@ layout: default
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+[@la-county-isd lavote.gov/home/voting-elections/current-elections/election-results/live-results](https://www.lavote.gov/home/voting-elections/current-elections/election-results/live-results)
+<img  alt="image" src="https://github.com/user-attachments/assets/0bac2b9c-5a8c-43c7-837f-7e9ad7d84b29" />
+
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
 
 <img alt="S1A_IW_GRDH_1SDV_20260621T135231_20260621T135256_065068_08338E_78F1 @asfadmin @nasa-jpl @la-county-isd @cityoflosangeles" src="https://github.com/user-attachments/assets/03a4c5b8-31a5-45eb-9098-ac2bdc022fb6" />
 
