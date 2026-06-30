@@ -16,23 +16,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4" />](https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4)
 
 
-
-![https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png](https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png)
-
-![https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png](https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png)
-
-![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-diving-header-june-12-6753651837111094.3-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-diving-header-june-12-6753651837111094.3-2xa.gif) 
-
-![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif)
-
-![https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif)
-
 [@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
 <img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
 
 
-
-![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/a7b2c8fa-5741-43e8-a532-0efe75971693" />
 
