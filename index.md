@@ -16,6 +16,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4" />](https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4)
 
 [virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
+[bluerobot.com/web/css/fouc.asp](https://web.archive.org/web/20050226050609/http://www.bluerobot.com/web/css/fouc.asp) /// 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/036ea23e-a4dd-41f5-a383-a5b68666a2f5" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a8bbce55-4e6a-4240-bb72-beace71d3848" />
 
