@@ -20,6 +20,7 @@ permalink: losangeles
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+
  - [ECOSTRESSGallery](https://ecostress.jpl.nasa.gov/gallerylist)
 The ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) mission measures the temperature of plants to better understand how much water plants need and how they respond to stress. ECOSTRESS is attached to the International Space Station (ISS) and collects data globally between 52° N and 52° S latitudes.
 [thakarashard.github.io/rashardmro/2026/04/28/ECOSTRESSMonitoringplantsfromspace.html](https://thakarashard.github.io/rashardmro/2026/04/28/ECOSTRESSMonitoringplantsfromspace.html)
