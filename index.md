@@ -18,6 +18,9 @@ Join us as we explore how the models behind the Satellite-based analysis Tool fo
 
 Date: July 1, 2026
 Time: 2:00 pm ET
+
+<img  alt="image" src="https://github.com/user-attachments/assets/203e84df-fe89-486c-a299-b7e098077d64" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0176f20c-1f9f-4f34-ab2a-89eeaceaf1bd" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9c9935d9-9a09-4f0a-b3a7-1b6abd4cd72d" />
