@@ -2,7 +2,6 @@
 layout: default
 ---
 
-[virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
@@ -10,7 +9,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
 [flickr.com/photos/nasacommons](https://www.flickr.com/photos/nasacommons/)
-@nasa-jpl @nasa-pds [@la-county-isd](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [RepKarenBass](https://www.congress.gov/member/karen-bass/B001270) `The International Space Station (ISS) and the Administration’s Proposal to End Direct NASA Funding by 2025 ` CRS Product Number:	IF10828 - [link](https://www.congress.gov/crs-product/IF10828)
+@nasa-jpl @nasa-pds [@la-county-isd](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [RepKarenBass](https://www.congress.gov/member/karen-bass/B001270) `The International Space Station (ISS) and the Administration’s Proposal to End Direct NASA Funding by 2025 ` CRS Product Number:	IF10828 - [link](https://www.congress.gov/crs-product/IF10828) [virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
+[MathJax @howard-university-web-services @blackgirlscode](https://docs.mathjax.org/en/latest/output/index.html)
+
 
 
 <pre>
